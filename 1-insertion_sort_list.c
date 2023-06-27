@@ -2,7 +2,7 @@
 
 /**
  * swap_nodes - swaps 2 nodes in a doubly-linked list in c
- * @a: address of the 1st node
+ * @c: address of the 1st node
  * @b: address of the 2nd node
  *
  * Return: void
